@@ -1,0 +1,1 @@
+I am Divine, i am trying to work with git.
