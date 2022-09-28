@@ -1,1 +1,1 @@
-I am Divine, i am trying to work with git.
+I am Divine, well, I think I am getting better at git.
